@@ -1,5 +1,3 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
-
 # Welcome!
 ## I'm Cristian, and I'd like to share a bit about myself! :D
 
