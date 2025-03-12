@@ -17,7 +17,7 @@
 I am a full stack developer, always seeking continuous learning to deliver efficient and scalable solutions. I have experience in developing and deploying web and back-end applications, combining performance, security and software engineering best practices.
 
 💡 My key skills:<br>
-✅ Full Stack Development with TypeScript, NestJS and Next.js <br>
+✅ Full Stack Development with TypeScript, NodeJS and Next.js <br>
 ✅ Basic experience with Java <br>
 ✅ Cloud Computing: Azure <br>
 ✅ Databases: SQL <br>
