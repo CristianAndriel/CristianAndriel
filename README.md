@@ -4,6 +4,10 @@
   <b>Full-Stack Developer | Back-End Developer</b>
 </p>
 
+<div align="center">
+<img src="code.gif" alt="gif">
+</div>
+
 <p align="center">
   <a href="https://o-cristian-portfolio.vercel.app/" target="_blank">
     🌍 Visit My Portfolio
