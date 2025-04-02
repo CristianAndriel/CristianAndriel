@@ -1,14 +1,14 @@
-<h1 align="center">Hi there, I'm Cristian Andriel Silva! 👋</h1>
+<h1 align="start">Cristian Andriel</h1>
 
-<p align="center">
-  <b>Full-Stack Developer | Back-End Developer</b>
+<p align="start">
+  <b>Junior Software Engineer</b>
 </p>
 
-<div align="center">
+<div align="start">
 <img src="code.gif" alt="gif">
 </div>
 
-<p align="center">
+<p align="start">
   <a href="https://o-cristian-portfolio.vercel.app/" target="_blank">
     🌍 Visit My Portfolio
   </a>
