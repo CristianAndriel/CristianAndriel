@@ -9,7 +9,8 @@
 <a href="mailto:contato.cristianandriel@gmail.com"><img src="https://img.shields.io/badge/outlook-blue.svg?&style=for-the-badge&logo=Outlook&logoColor=white" alt="Outlook"/></a>&nbsp;
 </p>
 
-<img align="right" alt="Naruto GIF" src="https://media.gifdb.com/yoriichi-demon-slayer-serious-face-ilsah4v8d3fvp2ub.gif" width="300" />
+<img align="right" width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/769625dc-f9e5-4f2b-bde1-1753235235f5" />
+
 
 Hey there! I'm Cristian — currently working in IT Governance and transitioning into Software Engineering. I’m driven by the challenge of turning complex processes into smart, scalable solutions through automation, solid architecture, and emerging technologies like AI.
 My goal is to go beyond just writing code — I want to design intelligent systems that adapt, learn, and deliver real value. With a strategic background in governance, I bring a holistic view to software development, focusing on impact, efficiency, and long-term sustainability.
