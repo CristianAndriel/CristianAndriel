@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">Software Engineer</h3>
 
-![](https://komarev.com/ghpvc/?username=cristian-andriel)
-
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/cristian-andriel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
