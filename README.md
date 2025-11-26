@@ -9,10 +9,11 @@
 
 ### 💬 Sobre mim
 
-Me chamo **Cristian**, sou um desenvolvedor com foco em **Back-end** e estudante do último semestre de **Análise e Desenvolvimento de Sistemas**.  
-Tenho como propósito transformar processos complexos em **soluções inteligentes e escaláveis**, aplicando **automação**, **boas práticas de arquitetura** e **tecnologias emergentes**, como **Inteligência Artificial**.  
+Me chamo **Cristian Andriel**, sou um Desenvolvedor de Software com foco em Java, Spring Boot, PostgreSQL, Docker, AWS, Kubernetes e IA. 
+Com formação em **Análise e Desenvolvimento de Sistemas**, e atualmente fazendo o curso introdutório de Ciência da Computação de Harvard, e demais cursos profissionalizantes e projetos reais para alavancar os meus conhecimentos em Tecnologia. 
+Meu propósito? Acho que sempre foi fazer algo que ajude outras pessoas, algo que ajude o mundo, e a Tecnologia me proporciona isso, por este motivo eu gosto tanto a minha área de atuação.
 
-Meu objetivo vai além de escrever código — busco **projetar sistemas inteligentes**, capazes de se adaptar, aprender e gerar valor real.
+Meu objetivo vai além de escrever código: busco projetar e construir sistemas inteligentes, eficientes e escaláveis, sempre alinhados às necessidades do negócio.
 
 ---
 
