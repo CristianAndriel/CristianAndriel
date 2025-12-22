@@ -1,5 +1,6 @@
-<h1 align="center">👋 Olá, eu sou o Cristian :)</h1>
-<h3 align="center">Desenvolvedor Backend | Java | Spring Boot | SQL | REST APIs | Cloud (AWS) | Docker | AI | N8N</h3>
+<h1 align="left">👋 Opa, 
+  <br>me chamo Cristian :)</h1>
+<h3 align="left">Desenvolvedor Backend | Java | Spring Boot | SQL | REST APIs | POSTGRE SQL |  AWS | Docker | AI</h3>
 
 ### 💬 Sobre mim
 
