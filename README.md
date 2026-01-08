@@ -1,6 +1,4 @@
 <h1 align="start">Hi, I'm Cristian</h1>
-- 👨‍💻 I’m currently working on Software Developer
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cristian-andriel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-andriel/" height="30" width="40" /></a>
