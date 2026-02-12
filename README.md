@@ -1,5 +1,6 @@
 # Resumo Profissional 
-**Desenvolvedor em formação, construindo experiência no desenvolvimento de aplicações web com Java, Spring e PostgreSQL. Em transição da área de Governança de TI, onde atuo como Analista Júnior, para o desenvolvimento de software. Tenho conhecimento básico em algoritmos e inteligência artificial, além de interesse por arquitetura de software, boas práticas e metodologias ágeis, como Scrum. Apaixonado por aprendizado contínuo, código limpo, escalabilidade, resolução de problemas e inovação. Atualmente, buscando um Pós Graduação em Engenharia de Software**.  
+**Desenvolvedor em formação, construindo experiência no desenvolvimento de aplicações web com Java, Spring e PostgreSQL.
+Tenho conhecimento básico em algoritmos e inteligência artificial, além de interesse por arquitetura de software, boas práticas e metodologias ágeis, como Scrum. Apaixonado por aprendizado contínuo, código limpo, escalabilidade, resolução de problemas e inovação. Atualmente, buscando um Pós Graduação em Engenharia de Software**.  
 
 ## Skills | Soft Skills
 ▸ Linguagens: Java, Spring Boot, JavaScript, TypeScript, Angular, HTML, CSS
